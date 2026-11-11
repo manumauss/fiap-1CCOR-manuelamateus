@@ -1,8 +1,7 @@
 # FIAP — Ciência da Computação (1CCOR) | Missão Aurora Siger
 
-**Aluna:** Manuela Mateus — RM 576139  
-**Turma:** 1CCOR — Ciência da Computação (FIAP)
-
+**Aluna:** Manuela Mateus   
+**Turma:** 1CCOR 
 Bem-vindo(a) ao repositório central das entregas da **Missão Aurora Siger**. As atividades integradoras estão organizadas em **branches separadas por fase**. Utilize os links abaixo para navegar diretamente até os arquivos, códigos-fonte e relatórios de cada entrega.
 
 ---
