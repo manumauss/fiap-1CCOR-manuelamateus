@@ -11,37 +11,8 @@ Bem-vindo(a) ao repositório central das entregas da **Missão Aurora Siger**. A
 
 | Fase | Branch | Link Direto | Descrição / Entregáveis |
 | :--- | :---: | :--- | :--- |
-| **Fase 1** | `fase-1` | [Acessar branch `fase-1`](https://github.com/manumauss/fiap-1CCOR-manuelamateus/tree/fase-1) | Entrega da Fase 1 da Missão Aurora Siger. |
-| **Fase 2** | `fase-2` | [Acessar branch `fase-2`](https://github.com/manumauss/fiap-1CCOR-manuelamateus/tree/fase-2) | Entrega da Fase 2 da Missão Aurora Siger. |
-| **Fase 3 (Atual)** | `fase-3` | [Acessar branch `fase-3`](https://github.com/manumauss/fiap-1CCOR-manuelamateus/tree/fase-3) | **SIGPC — Sistema Inteligente de Gestão e Previsão da Colônia** (`sigpc_colonia.py`, `README.md` e Relatório Técnico em PDF). |
+| **Fase 1** | `fase-1` | [Acessar branch `fase-1`](https://github.com/manumauss/fiap-1CCOR-manuelamateus/tree/fase-1) | Entrega da Fase 1 |
+| **Fase 2** | `fase-2` | [Acessar branch `fase-2`](https://github.com/manumauss/fiap-1CCOR-manuelamateus/tree/fase-2) | Entrega da Fase 2 |
+| **Fase 3** | `fase-3` | [Acessar branch `fase-3`](https://github.com/manumauss/fiap-1CCOR-manuelamateus/tree/fase-3) | Entrega da Fase 3 |
 
 ---
-
-## Links Rápidos
-
-- **Fase 1:** https://github.com/manumauss/fiap-1CCOR-manuelamateus/tree/fase-1
-- **Fase 2:** https://github.com/manumauss/fiap-1CCOR-manuelamateus/tree/fase-2
-- **Fase 3:** https://github.com/manumauss/fiap-1CCOR-manuelamateus/tree/fase-3
-
----
-
-## Como clonar uma fase específica
-
-Para clonar diretamente uma das fases pelo terminal (por exemplo, a **Fase 3**), utilize a flag `-b`:
-
-```bash
-# Clonar diretamente a Fase 3 (SIGPC)
-git clone -b fase-3 https://github.com/manumauss/fiap-1CCOR-manuelamateus.git
-cd fiap-1CCOR-manuelamateus
-python sigpc_colonia.py
-```
-
-Caso você já tenha clonado o repositório pela branch principal, basta alternar para a branch desejada:
-
-```bash
-git checkout fase-1
-# ou
-git checkout fase-2
-# ou
-git checkout fase-3
-```
